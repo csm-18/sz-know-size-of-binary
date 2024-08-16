@@ -3,4 +3,8 @@ name = "sz-know-size-of-binary"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "sz"
+path= "src/main.rs"
+
 [dependencies]
