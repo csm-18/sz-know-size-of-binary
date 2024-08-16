@@ -1,0 +1,1 @@
+# sz-know-size-of-binary
